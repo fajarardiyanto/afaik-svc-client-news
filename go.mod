@@ -4,10 +4,10 @@ go 1.17
 
 require (
 	github.com/fajarardiyanto/flt-go-env v0.0.2
-	github.com/fajarardiyanto/flt-go-listener v0.0.4
+	github.com/fajarardiyanto/flt-go-listener v0.0.6
 	github.com/fajarardiyanto/flt-go-logger v0.0.6
 	github.com/fajarardiyanto/flt-go-tracer v0.0.2
-	github.com/fajarardiyanto/flt-go-utils v0.0.5
+	github.com/fajarardiyanto/flt-go-utils v0.0.6
 	github.com/fajarardiyanto/module-proto v0.0.10
 	github.com/gorilla/mux v1.8.0
 	github.com/opentracing/opentracing-go v1.2.0
